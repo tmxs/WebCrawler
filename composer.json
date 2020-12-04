@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mmerian/phpcrawl": "^0.8.3"
+    }
+}
